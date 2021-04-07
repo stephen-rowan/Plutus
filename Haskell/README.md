@@ -16,4 +16,20 @@ Is there a ubuntu repository for haskell-platform that includes this newer versi
 
 ## Plutus Installation
 
+https://www.reddit.com/r/CardanoDevelopers/comments/majuba/plutus_playground_on_a_local_machine/
 
+## Plutus Platform GitHub
+
+https://github.com/input-output-hk/plutus
+
+### Install Nix
+
+https://nixos.org/download.html
+
+The quickest way to install Nix is to open a terminal and run the following command (as a user other than root with sudo permission):
+
+$ curl -L https://nixos.org/nix/install | sh
+
+Make sure to follow the instructions output by the script.
+
+The installation script requires that you have sudo access to root.
