@@ -8,6 +8,11 @@ An IOHK technical repor
 
 https://hydra.iohk.io/build/5735420/download/1/plutus.pdf
 
+
+## The Plutus Platform
+
+https://docs.cardano.org/projects/plutus/en/latest/index.html
+
 ## cardano-node Documentation
 
 https://docs.cardano.org/projects/cardano-node/en/latest/
