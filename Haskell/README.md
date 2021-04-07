@@ -1,5 +1,9 @@
 # Haskell README
 
+Guides :
+
+https://gutier.io/post/development-installing-haskell-quick-and-easy/
+
 
 # Haskell
 
