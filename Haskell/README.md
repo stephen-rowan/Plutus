@@ -30,6 +30,10 @@ https://github.com/input-output-hk/plutus
 
 https://nixos.org/download.html
 
+### Clone Plutus
+
+https://github.com/input-output-hk/plutus.git
+
 The quickest way to install Nix is to open a terminal and run the following command (as a user other than root with sudo permission):
 
 $ sudo curl -L https://nixos.org/nix/install | sh
