@@ -16,6 +16,10 @@ Is there a ubuntu repository for haskell-platform that includes this newer versi
 
 ## Plutus Installation
 
+Discord context :
+
+https://discordapp.com/channels/826816523368005654/826822689427554365/829287046882525214
+
 https://www.reddit.com/r/CardanoDevelopers/comments/majuba/plutus_playground_on_a_local_machine/
 
 ## Plutus Platform GitHub
