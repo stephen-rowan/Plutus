@@ -30,10 +30,6 @@ https://github.com/input-output-hk/plutus
 
 https://nixos.org/download.html
 
-### Clone Plutus
-
-https://github.com/input-output-hk/plutus.git
-
 The quickest way to install Nix is to open a terminal and run the following command (as a user other than root with sudo permission):
 
 $ sudo curl -L https://nixos.org/nix/install | sh
@@ -41,3 +37,16 @@ $ sudo curl -L https://nixos.org/nix/install | sh
 Make sure to follow the instructions output by the script.
 
 The installation script requires that you have sudo access to root.
+
+### Clone Plutus
+
+https://github.com/input-output-hk/plutus.git
+
+cd plutus root
+
+### How to build the Haskell packages and other artifacts
+
+How to build Haskell packages and other artifacts with Nix
+
+Run nix build -f default.nix plutus.haskell.packages.plutus-core.components.library from the root to build the Plutus Core library.
+
