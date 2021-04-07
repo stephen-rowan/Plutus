@@ -7,7 +7,7 @@
 
 https://www.haskell.org/platform/linux.html#linux-ubuntu
 
- sudo apt-get install haskell-platform
+ `sudo apt-get install haskell-platform`
 
 ## Version Issue ?
 
