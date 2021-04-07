@@ -32,7 +32,7 @@ https://nixos.org/download.html
 
 The quickest way to install Nix is to open a terminal and run the following command (as a user other than root with sudo permission):
 
-$ sudo curl -L https://nixos.org/nix/install | sh
+`$ sudo curl -L https://nixos.org/nix/install | sh`
 
 Make sure to follow the instructions output by the script.
 
@@ -42,7 +42,7 @@ The installation script requires that you have sudo access to root.
 
 https://github.com/input-output-hk/plutus.git
 
-cd plutus root
+`cd plutus root`
 
 ### How to build the Haskell packages and other artifacts
 
