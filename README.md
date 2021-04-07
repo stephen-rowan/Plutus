@@ -20,3 +20,12 @@ https://docs.cardano.org/projects/cardano-node/en/latest/
 ## Plutus Tx: compiling Haskell into Plutus Core
 
 https://iohk.io/en/blog/posts/2021/02/02/plutus-tx-compiling-haskell-into-plutus-core/
+
+
+# Haskell
+
+## Haskell Installation
+
+https://www.haskell.org/platform/linux.html#linux-ubuntu
+
+ sudo apt-get install haskell-platform
