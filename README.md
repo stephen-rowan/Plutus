@@ -29,3 +29,9 @@ https://iohk.io/en/blog/posts/2021/02/02/plutus-tx-compiling-haskell-into-plutus
 https://www.haskell.org/platform/linux.html#linux-ubuntu
 
  sudo apt-get install haskell-platform
+
+## emacs Installation
+
+ sudo apt-get install emacs
+ 
+ 
