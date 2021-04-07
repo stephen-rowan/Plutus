@@ -32,7 +32,7 @@ https://nixos.org/download.html
 
 The quickest way to install Nix is to open a terminal and run the following command (as a user other than root with sudo permission):
 
-$ curl -L https://nixos.org/nix/install | sh
+$ sudo curl -L https://nixos.org/nix/install | sh
 
 Make sure to follow the instructions output by the script.
 
