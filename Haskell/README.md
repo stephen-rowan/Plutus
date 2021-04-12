@@ -59,5 +59,12 @@ How to build Haskell packages and other artifacts with Nix
 
 Run `nix build -f default.nix plutus.haskell.packages.plutus-core.components.library` from the root to build the Plutus Core library.
 
+### Starting Plutus Playground
+
+https://tutorials.cardanoacademy.io/setting-up-plutus-playground/starting-plutus-playground#access-to-your-playground
+
+cd plutus
+nix-shell
+
 
 
